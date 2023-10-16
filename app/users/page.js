@@ -1,11 +1,11 @@
 import React from "react";
-import TheComponent from "@/components/TheComponent";
+import TheUsers from "@/components/TheComponent";
 
-function Home() {
+function Users() {
   return (
     <div>
       <div>Home</div>
-      <TheComponent />
+      <TheUsers />
     </div>
   );
 }
